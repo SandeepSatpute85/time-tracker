@@ -13,7 +13,7 @@
 <body>
   <h1>Super Simple Example Web Page</h1>
   <p>
-    Maaaster Triger.
+    Maaaster Triger
   </p>
 </body>
 </html>
